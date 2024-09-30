@@ -33,10 +33,7 @@ p {
     font-size: 20px;
 }
 
-img {
-     h
-  eight: 200px;
-}
+
 .categoria-videos {
 
     display: flex;
@@ -44,11 +41,9 @@ img {
     
 }
   
-.categoria-videos img
+.categoria-videos img{
    opacity:0,5;
    height:200px ;
-{
-
   }
 
 
