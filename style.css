@@ -61,5 +61,6 @@ img {
   }
 
   .categoria {
-    margin: top 50px; ;
+    margin: top 50px;
+    height: 200px;
   }
